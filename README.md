@@ -5,7 +5,7 @@ I'm a student at MUBS studying IT, specifically in the Computer Science field. I
 
 ### Projects
 - **Agricultural Resource Management System**: Developing a comprehensive website to manage agricultural resources in the Beqaa region.
-[AgriRMS]([url](https://github.com/Baalbaki956/AgriRMS))
+ [AgriRMS](https://github.com/Baalbaki956/AgriRMS).
 - **eCommerce Store**: Planning and designing a full-fledged eCommerce platform with Go on the backend and React on the frontend.
 
 ### Interests
