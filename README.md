@@ -6,7 +6,6 @@ I'm a student at MUBS studying IT, specifically in the Computer Science field. I
 ### Projects
 - **Agricultural Resource Management System[public]**: Developing a comprehensive website to manage agricultural resources in the Beqaa region.
  [AgriRMS](https://github.com/Baalbaki956/AgriRMS).
-- **eCommerce Store[private]**: Planning and designing a full-fledged eCommerce platform with Go on the backend and React on the frontend.
 
 ### Interests
 I'm passionate about using technology to solve real-world problems and aim to build innovative eCommerce solutions in Lebanon.
