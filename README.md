@@ -10,5 +10,8 @@ I'm a student at MUBS studying IT, specifically in the Computer Science field. I
 ### Interests
 I'm passionate about using technology to solve real-world problems and aim to build innovative eCommerce solutions in Lebanon.
 
+### Skills
+java / c# / HTML5 / CSS / Javascript / PHP / Go / React / C/C++
+
 ### Let's Connect
 I'm always open to collaborating on exciting projects. Feel free to reach out!
