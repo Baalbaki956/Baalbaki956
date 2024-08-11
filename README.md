@@ -16,4 +16,4 @@ java / c# / HTML5 / CSS / Javascript / PHP / Go / React / C/C++
 ### Let's Connect
 I'm always open to collaborating on exciting projects. Feel free to reach out!
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Baalbaki956)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/noureddine-baalbaki-3a3245198//)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Baalbaki956)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/noureddine-baalbaki-3a3245198//)  
