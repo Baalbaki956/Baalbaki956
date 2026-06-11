@@ -1,19 +1,33 @@
-## Hello! I'm Noureddine Baalbaki.
+# 🚀 Noureddine Baalbaki
+### Full-Stack Software Engineer | Angular & .NET Core Ecosystem Specialist
 
-### About Me
-I'm a student at MUBS studying IT, specifically in the Computer Science field. I have a strong passion for web development and enjoy working on both the frontend and backend. My primary experience is with PHP, HTML5, CSS, and JavaScript, and I have foundational knowledge in Go, React, C/C++, Java, C#, and various IT tools and utilities. I'm always eager to learn new programming languages and frameworks.
+Passionate, system-oriented software engineer focused on building high-performance decoupled web architectures, real-time reactive frontends, and cross-border commercial software solutions. Proven capability in translating complex business problems into production-ready platforms.
 
-### Projects
-- **Agricultural Resource Management System[public]**: Developing a comprehensive website to manage agricultural resources in the Beqaa region.
- [AgriRMS](https://github.com/Baalbaki956/AgriRMS).
+---
 
-### Interests
-I'm passionate about using technology to solve real-world problems and aim to build innovative eCommerce solutions in Lebanon.
+### 🏆 Core Live Initiatives
+*   **Kluvv (Live Production MVP)**: A distributed, multi-vendor brick-and-mortar retail discovery and indexing engine designed from scratch. 
+    *   **Backend**: Engineered with ultra-high-throughput **C# .NET Core Minimal APIs**, decoupled clean architectural tiers, and secure Data Transfer Objects (DTOs).
+    *   **Frontend**: Built on the bleeding edge of **Angular v18+**, leveraging **Signals, Computed State Pipes, modern Signal Forms**, and standalone asynchronous execution tracks.
+    *   **Traction**: Successfully launched to production and natively **onboarded 5 active physical retail stores** within regional constraints.
 
-### Skills & Experience
-Java / C# / HTML5 / CSS / JavaScript / PHP / React / C/C++
+---
 
-### Let's Connect
-I'm always open to collaborating on exciting projects. Feel free to reach out!
+### 💻 Specialized Technical Stack
+*   **Frontend Technologies**: Angular (v17/v18/v19 Core, Signals Architecture, Signal Forms, RxJS, Dynamic Controls), TypeScript, JavaScript (ES6+), HTML5, Semantic CSS.
+*   **Backend Engineering**: C# / .NET Core, Minimal APIs architecture, RESTful API Engineering, Secure DTO Modeling, FluentValidation Frameworks, PHP, Go Basics.
+*   **Architecture & Methodology**: Dependency Injection, Asynchronous Program Flows, Stateless JWT Verification, Structured Error-Handling Middleware, Git / Version Workflows.
+
+---
+
+### 🌐 Global Communication Fluency
+*   **Arabic**: Native / Bilingual Proficiency
+*   **Portuguese**: Native / Bilingual Proficiency
+*   **English**: Full Professional Technical Proficiency (Completely educated via English-medium institutions)
+
+---
+
+### 🤝 Let's Connect & Collaborate
+I design resilient, scalable code pipelines and love tackling high-concurrency architecture issues. Open to premium engineering opportunities across the GCC (Saudi Arabia / UAE relocation) and remote-first international agencies.
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Baalbaki956)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/noureddine-baalbaki-3a3245198//)  
