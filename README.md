@@ -29,11 +29,13 @@ Entity Framework Core
 LINQ
 
 Tools:
+
 Git, GitHub
 Visual Studio, VS Code
 Postman
 
 🌍 Languages
+
 Arabic — Native
 
 Portuguese — Native
