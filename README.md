@@ -9,30 +9,42 @@ Kluvv — Multi-Vendor Retail Discovery Platform (Live)
 
 A production platform that connects brick-and-mortar stores in Lebanon with online discovery.
 
-Built with ASP.NET Core Minimal APIs + Angular
-Implemented authentication, product catalog, and store management system
-Designed RESTful backend with DTO-based architecture
-Deployed to production and used by 5 active retail stores
+Tech Stack: ASP.NET Core Minimal APIs + Angular
+
+Tech Stack: ASP.NET Core Minimal APIs, Angular
+
+Key Features:
+
+- Authentication system
+- Product catalog management
+- Store management system
+- RESTful API architecture with DTO-based design
+
+Impact:
+
+- Deployed to production
+- Used by 5 active retail stores in Lebanon
+
 🛠️ Tech Stack
 
-Frontend:
+Frontend
 
-Angular (v17+)
-TypeScript, JavaScript (ES6+)
-HTML5, CSS3
+- Angular (v17+)
+- TypeScript, JavaScript (ES6+)
+- HTML5, CSS3
 
-Backend:
+Backend
 
-C#, ASP.NET Core
-REST APIs
-Entity Framework Core
-LINQ
+- C#, ASP.NET Core
+- REST APIs
+- Entity Framework Core
+- LINQ
 
-Tools:
+Tools
 
-Git, GitHub
-Visual Studio, VS Code
-Postman
+- Git, GitHub
+- Visual Studio, VS Code
+- Postman
 
 🌍 Languages
 
