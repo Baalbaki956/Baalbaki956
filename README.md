@@ -16,8 +16,11 @@ Tech Stack: ASP.NET Core Minimal APIs, Angular
 Key Features:
 
 - Authentication system
+  
 - Product catalog management
+  
 - Store management system
+  
 - RESTful API architecture with DTO-based design
 
 Impact:
