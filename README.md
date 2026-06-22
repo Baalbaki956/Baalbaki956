@@ -29,14 +29,15 @@ Entity Framework Core
 LINQ
 
 Tools:
-
 Git, GitHub
 Visual Studio, VS Code
 Postman
 
 🌍 Languages
 Arabic — Native
+
 Portuguese — Native
+
 English — Professional working proficiency
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Baalbaki956)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/noureddine-baalbaki-3a3245198/)  
